@@ -3,3 +3,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Naruto motivational quotes
 
 This is my first nextjs Website, something simple. testing Api calls and fetching some data to play around.
+
+Website live here: https://quotes-project-next.vercel.app/
