@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 4rem;
+}
+
+.title span {
+    color: #ea9828;
+}
+
+.title i {
+    margin-left: 1rem;
+    color: #ea9828;
+}
